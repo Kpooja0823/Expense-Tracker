@@ -36,8 +36,9 @@ An Expense Tracker application built with a full-stack approach to manage person
 1. **Clone the repository**:
    
      git clone https://github.com/Kpooja0823/Expense-Tracker.git
+   
      cd Expense-Tracker
-2. **Install dependencies** :
+3. **Install dependencies** :
     For the backend:
     cd backend
     npm install
@@ -45,12 +46,12 @@ An Expense Tracker application built with a full-stack approach to manage person
 
     cd frontend
     npm install
-3. **Environment Variables**:
+4. **Environment Variables**:
 Create a .env file in the backend directory with the following:
     PORT=5000
     MONGO_URI=your_mongo_database_connection_string
    
-4.  **Start the application**:
+5.  **Start the application**:
     Backend:
     cd backend
     npm start
