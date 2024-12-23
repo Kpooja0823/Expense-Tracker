@@ -41,22 +41,27 @@ An Expense Tracker application built with a full-stack approach to manage person
 3. **Install dependencies** :
     For the backend:
     cd backend
+   
     npm install
     For the frontend:
 
     cd frontend
     npm install
-4. **Environment Variables**:
-Create a .env file in the backend directory with the following:
+   
+5. **Environment Variables**:
+   Create a .env file in the backend directory with the following:
+   
     PORT=5000
     MONGO_URI=your_mongo_database_connection_string
    
-5.  **Start the application**:
+7.  **Start the application**:
     Backend:
+    
     cd backend
     npm start
     
     Frontend:
+    
     cd frontend
     npm start
 Open your browser and navigate to http://localhost:3000 for the frontend and http://localhost:5000 for the backend API.
