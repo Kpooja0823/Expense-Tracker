@@ -55,13 +55,12 @@ An Expense Tracker application built with a full-stack approach to manage person
     MONGO_URI=your_mongo_database_connection_string
    
 7.  **Start the application**:
+
     Backend:
-    
     cd backend
     npm start
     
     Frontend:
-    
     cd frontend
     npm start
 Open your browser and navigate to http://localhost:3000 for the frontend and http://localhost:5000 for the backend API.
