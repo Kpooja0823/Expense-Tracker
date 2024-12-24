@@ -71,8 +71,5 @@ Add your expenses by specifying the amount, category, and date.
 Use the dashboard to view a breakdown of your spending habits.
 Filter expenses by date range or category for detailed insights.
 
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 **Acknowledgments**
 This project was inspired by the need for simple, effective personal finance management. Special thanks to the open-source community for their tools and resources.
