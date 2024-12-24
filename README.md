@@ -73,3 +73,6 @@ Filter expenses by date range or category for detailed insights.
 
 **Acknowledgments**
 This project was inspired by the need for simple, effective personal finance management. Special thanks to the open-source community for their tools and resources.
+
+**Copy Rights** 
+Copyright Maciej Twarog (github.com/maciekt07)
